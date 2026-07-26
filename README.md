@@ -136,7 +136,7 @@ td {
 <tr>
 <td>1</td>
 <td>Mr. Saeb</td>
-<td>1/7</td>
+<td>3/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -144,7 +144,7 @@ td {
 <tr>
 <td>2</td>
 <td>Arian Habibi</td>
-<td>1/7</td>
+<td>4/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -152,7 +152,7 @@ td {
 <tr>
 <td>3</td>
 <td>Ariya Shabrandi</td>
-<td>2/7</td>
+<td>3/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -176,7 +176,7 @@ td {
 <tr>
 <td>6</td>
 <td>Karia Vaisi</td>
-<td>2/7</td>
+<td>5/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -184,7 +184,7 @@ td {
 <tr>
 <td>7</td>
 <td>Mohammad Rayegan</td>
-<td>1/7</td>
+<td>4/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -192,7 +192,7 @@ td {
 <tr>
 <td>8</td>
 <td>Mohammad Sajjadi</td>
-<td>1/7</td>
+<td>2/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
@@ -200,7 +200,7 @@ td {
 <tr>
 <td>9</td>
 <td>Shayan Mohammadi</td>
-<td>1/7</td>
+<td>2/7</td>
 <td class="good">Excellent 🟢</td>
 </tr>
 
