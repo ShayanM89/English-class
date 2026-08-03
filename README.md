@@ -152,8 +152,8 @@ td {
 <tr>
 <td>3</td>
 <td>Ariya Shabrandi</td>
-<td>5/7</td>
-<td class="good">Warning 🟡</td>
+<td>6/7</td>
+<td class="good">Critical 🔴</td>
 </tr>
 
 
